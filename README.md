@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning game development in GameMaker
-- 👯 I’m looking to collaborate on 2D JavaScript games
+- 🌱 I’m currently learning game development on GameMaker.io
+- 👯 I’m looking to collaborate on 2D GM / JavaScript games
 - 📫 How to reach me: [instagram srdjan.tehnicar](https://www.instagram.com/srdjan.tehnicar/)
 
